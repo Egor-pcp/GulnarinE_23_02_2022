@@ -3723,3 +3723,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.23-15.53.45:347][500]AssetCheck: New page: Asset Save: MainCharacter
 [2022.02.23-15.53.45:347][500]LogContentValidation: Display: Validating Blueprint /Game/GulnarinE_23_02_2022/Characters/MainCharacter.MainCharacter
 [2022.02.23-15.53.47:820][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.23-15.54.14:281][158]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.23-15.54.14:281][158]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.23-15.56.30:241][827]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.23-15.56.30:242][827]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.23-15.56.44:122][859]BlueprintLog: New page: Compile MainCharacter
+[2022.02.23-15.56.44:155][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.23-15.56.44:939][929]LogSavePackage: Moving '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Saved/MainCharacter17EC391645FEC07219CDEDA3D84C2F2F.tmp' to '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Content/GulnarinE_23_02_2022/Characters/MainCharacter.uasset'
+[2022.02.23-15.56.44:960][929]AssetCheck: New page: Asset Save: MainCharacter
+[2022.02.23-15.56.44:960][929]LogContentValidation: Display: Validating Blueprint /Game/GulnarinE_23_02_2022/Characters/MainCharacter.MainCharacter
+[2022.02.23-15.56.48:013][277]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.02.23-15.56.48:018][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.23-15.56.48:018][277]PIE: New page: PIE session: mainlevel (24 февр. 2022 г., 01:56:48)
+[2022.02.23-15.56.48:018][277]LogPlayLevel: Creating play world package: /Game/GulnarinE_23_02_2022/level/UEDPIE_0_mainlevel
+[2022.02.23-15.56.48:024][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006416s)
+[2022.02.23-15.56.48:025][277]LogAIModule: Creating AISystem for world mainlevel
+[2022.02.23-15.56.48:026][277]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2022.02.23-15.56.48:026][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GulnarinE_23_02_2022/level/mainlevel.mainlevel to /Game/GulnarinE_23_02_2022/level/UEDPIE_0_mainlevel.mainlevel (0.007535s)
+[2022.02.23-15.56.48:041][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.23-15.56.48:041][277]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.23-15.56.48:041][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.23-15.56.48:041][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.23-15.56.48:042][277]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.23-15.56.48:042][277]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.23-15.56.48:047][277]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.23-15.56.48:047][277]LogAudioMixer: Display: 1: FrontRight
+[2022.02.23-15.56.48:063][277]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.02.23-15.56.48:064][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.23-15.56.48:064][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.23-15.56.48:064][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.23-15.56.48:064][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.23-15.56.48:064][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.23-15.56.48:064][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.23-15.56.48:076][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.23-15.56.48:076][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.23-15.56.48:076][277]LogInit: FAudioDevice initialized.
+[2022.02.23-15.56.48:076][277]LogAudio: Display: Audio Device (ID: 18) registered with world 'mainlevel'.
+[2022.02.23-15.56.48:125][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-15.56.48:125][277]LogLoad: Game class is 'MainGM_C'
+[2022.02.23-15.56.48:127][277]LogWorld: Bringing World /Game/GulnarinE_23_02_2022/level/UEDPIE_0_mainlevel.mainlevel up for play (max tick rate 0) at 2022.02.23-20.56.48
+[2022.02.23-15.56.48:128][277]LogWorld: Bringing up level for play took: 0.002217
+[2022.02.23-15.56.48:128][277]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.02.23-15.56.48:133][277]PIE: Server logged in
+[2022.02.23-15.56.48:134][277]PIE: Play in editor total start time 0,117 seconds.
+[2022.02.23-15.57.01:734][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.23-15.57.01:734][895]LogWorld: BeginTearingDown for /Game/GulnarinE_23_02_2022/level/UEDPIE_0_mainlevel
+[2022.02.23-15.57.01:735][895]LogSlate: Window 'GulnarinE_23_02_2022 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.23-15.57.01:748][895]LogWorld: UWorld::CleanupWorld for mainlevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.23-15.57.01:749][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.23-15.57.01:757][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.23-15.57.01:760][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.23-15.57.01:774][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.23-15.57.01:774][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.23-15.57.01:775][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.23-15.57.01:792][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.23-15.57.01:807][896]LogPlayLevel: Display: Destroying online subsystem :Context_22
