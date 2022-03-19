@@ -12787,3 +12787,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.19-11.15.44:739][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/GulnarinE_23_02_2022/main/MainController]
 [2022.03.19-11.15.44:747][937]LogSavePackage: Moving '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Saved/MainController_Auto21E866E8341CC541CCD6DF5B6379881E0.tmp' to '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Saved/Autosaves/Game/GulnarinE_23_02_2022/main/MainController_Auto2.uasset'
 [2022.03.19-11.15.44:748][937]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.03.19-11.22.26:784][304]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.19-11.22.26:785][304]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.19-11.22.32:144][929]BlueprintLog: New page: Compile MainController
+[2022.03.19-11.22.32:183][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.03.19-11.22.32:690][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GulnarinE_23_02_2022/main/MainController" FILE="../../../../../!GB - Progekt/GulnarinE_23_02_2022/Content/GulnarinE_23_02_2022/main/MainController.uasset" SILENT=true
+[2022.03.19-11.22.32:699][973]LogSavePackage: Moving '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Saved/MainControllerEBAB00954F1229B69A694AADF321EB23.tmp' to '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Content/GulnarinE_23_02_2022/main/MainController.uasset'
+[2022.03.19-11.22.32:719][973]AssetCheck: New page: Asset Save: MainController
+[2022.03.19-11.22.32:719][973]LogContentValidation: Display: Validating Blueprint /Game/GulnarinE_23_02_2022/main/MainController.MainController
