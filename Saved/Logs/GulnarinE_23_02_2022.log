@@ -12795,3 +12795,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.19-11.22.32:699][973]LogSavePackage: Moving '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Saved/MainControllerEBAB00954F1229B69A694AADF321EB23.tmp' to '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Content/GulnarinE_23_02_2022/main/MainController.uasset'
 [2022.03.19-11.22.32:719][973]AssetCheck: New page: Asset Save: MainController
 [2022.03.19-11.22.32:719][973]LogContentValidation: Display: Validating Blueprint /Game/GulnarinE_23_02_2022/main/MainController.MainController
+[2022.03.19-11.24.01:524][870]BlueprintLog: New page: Compile MainController
+[2022.03.19-11.24.01:562][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.03.19-11.24.02:111][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GulnarinE_23_02_2022/main/MainController" FILE="../../../../../!GB - Progekt/GulnarinE_23_02_2022/Content/GulnarinE_23_02_2022/main/MainController.uasset" SILENT=true
+[2022.03.19-11.24.02:120][919]LogSavePackage: Moving '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Saved/MainController973BD37A4727BB8F85398CA962B3A058.tmp' to '../../../../../!GB - Progekt/GulnarinE_23_02_2022/Content/GulnarinE_23_02_2022/main/MainController.uasset'
+[2022.03.19-11.24.02:136][919]AssetCheck: New page: Asset Save: MainController
+[2022.03.19-11.24.02:136][919]LogContentValidation: Display: Validating Blueprint /Game/GulnarinE_23_02_2022/main/MainController.MainController
